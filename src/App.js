@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import InfoTile from "./components/InfoTile";
 import WhenWhere from "./components/WhenWhere";
 import TopicsTile from "./components/TopicsTile";
+import Timer from "./components/Timer";
 import ImportantDatesTile from "./components/ImportantDatesTile";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <InfoTile />
       <WhenWhere />
       <TopicsTile />
+      <Timer />
       <ImportantDatesTile />
       <Footer />
     </div>
